@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: arial, helvetica, sans-serif;
+}
+
+body{
+	height: 800px;
+}
+
+h1 {
+	background: royalblue;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+.avatar {
+	text-align: center;
+}
+
+.footer{
+	height: 50px;
+	width: 100%;
+	background-color: royalblue;
+}
